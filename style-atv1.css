@@ -1,0 +1,194 @@
+.texto-principal {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #3f3c3c;
+    height: 100px;
+    width: 750px;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%); 
+    border: solid 1px;
+}
+
+.centro {
+    border:solid 4px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%); 
+    border: solid 3px;
+}
+
+.calculo-area {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%); 
+    font-size: 210%;
+}
+
+.retangulo {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.quadrado {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.losango {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.trapezio {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.pararelogramo {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.triangulo {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.circulo {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.alertas {
+    border:solid 4px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 25%;
+    top: 70%;
+    transform: translate(-50%, -50%); 
+    border: solid 3px;
+}
+
+.fusca {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 25%;
+    top: 65%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.usuario {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 25%;
+    top: 75%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
+.texto-alert {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 25%;
+    top: 50%;
+    transform: translate(-50%, -50%); 
+    font-size: 125%;
+}
+
+.alertas2 {
+    border:solid 4px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 75%;
+    top: 70%;
+    transform: translate(-50%, -50%); 
+    border: solid 3px;
+}
+
+.texto-prompt {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 75%;
+    top: 50%;
+    transform: translate(-50%, -50%); 
+    font-size: 120%;
+}
+
+.primeiro-prompt {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 75%;
+    top: 68%;
+    transform: translate(-50%, -50%); 
+    font-size: 130%;
+    background-color: #3f3c3c;
+    border: solid;
+}
+
